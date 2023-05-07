@@ -1,0 +1,44 @@
+Logo imgs->logoA
+Categorias
+1- Carnes/frangos:(11)imgs->1-11
+2-Categoria: (tenho q por mais 4 ou 5)Margarinas(1)imgs->12
+3-Categoria: (tenho q por mais 4 ou 5)Grãos(1)imgs->13
+4-Categoria: (tenho q por mais 4 ou 5)(1)imgs->14
+5-Categoria: (tenho q por mais 2 ou 3)Doces(3)imgs->15-17
+6-Categoria: Bebidas(9)imgs->18-26
+7-Categoria: (tenho q por 2)Higiene e limpeza(5)imgs->27-31
+8-Categoria: Verduras e Legumes(11)imgs->32-37/44-47/49
+9-Categoria: Frutas(15)imgs->48-62
+10-Categoria: (tenho q por mais 2)Peixes e derivados(4)imgs->38-41
+
+
+
+figure{
+    width: 250px;
+    height: 250px;
+}
+figure img {
+    width:100%;     
+}
+figcaption p i {
+    display: block;
+    text-align: center
+  }
+
+
+<div class="container">
+        <button class="arrow-left control" aria-label="Previous image">◀</button>
+        <button class="arrow-right control" aria-label="Next image">▶</button>
+        <div class="gallery-wrapper">
+            <div class="gallery">
+                
+            </div>
+        </div>
+    </div>
+
+background-color: #fef6f5;
+galery
+background-color: #f5f5f5;
+
+background-color:#48d1cc;
+#6a5acd
